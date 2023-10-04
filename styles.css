@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+section{
+	border-left:0px solid green;
+	background-color:#f8fffe;
+}
+.question{
+	height:50px;
+	margin-top:20px;
+	padding:16px;
+	max-width:600px;
+	border-left:0px solid green;
+}
