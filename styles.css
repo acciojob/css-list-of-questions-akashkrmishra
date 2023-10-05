@@ -4,10 +4,12 @@ section{
 	border-left:0px solid green;
 	background-color:#f8fffe;
 }
+
 .questions{
 	height:50px;
 	margin-top:20px;
 	padding:16px;
 	max-width:600px;
 	border-left:0px solid green;
+	background-color:rgb(248, 255, 254);
 }
